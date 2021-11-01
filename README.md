@@ -10,7 +10,7 @@ This is a NEWS App built using React Native. You can read the trending NEWS or i
 - Sports
 
 ### Tutorial 
-You can find the step by step tutorial to this app [here](https://youtube.com/c/SGCodes)
+You can find the step by step tutorial to this app [here](https://sgcodes.tech/youtube)
 
 ### Screens
 
